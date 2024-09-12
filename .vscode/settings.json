@@ -1,0 +1,7 @@
+{
+    "editor.detectIndentation": false,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "notebook.defaultFormatter": "esbenp.prettier-vscode"
+}
