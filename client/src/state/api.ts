@@ -1,4 +1,3 @@
-import { getProducts } from './../../../server/src/controllers/productController';
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export interface Product {
